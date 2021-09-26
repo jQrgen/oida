@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="morradi">
+    <h1>Pulte hun i går</h1>
   </div>
 </template>

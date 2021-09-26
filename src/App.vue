@@ -1,7 +1,7 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Døner Tallrik og DJ Bord</router-link> |
+    <router-link to="/morradi">Morra Di</router-link>
   </div>
   <router-view/>
 </template>
