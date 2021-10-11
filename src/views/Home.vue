@@ -77,8 +77,12 @@ export default class Home extends Vue {
     })
   }
 
-  public async mouseover (event: Event) {
-    window.location.href = 'https://t.me/tallrik'
+  public mouseover (event: Event) {
+    const hackyLink = document.createElement('a')
+    hackyLink.target = '_blank'
+    hackyLink.href = 'https://t.me/tallrik'
+    hackyLink.click()
+    window.alert('Its a trap!')
   }
 }
 </script>
