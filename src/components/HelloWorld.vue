@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
   </div>
+  <img style="height: 420px" alt="Vue logo" src="../assets/Enlight28.png">
 </template>
 
 <script lang="ts">
