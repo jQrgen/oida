@@ -1,6 +1,6 @@
 <template>
   <div class="morradi">
-    <button @click="fade = !fade">Hva?</button>
+    <button style="cursor: pointer; font-size: 25em" @click="fade = !fade">Hva?</button>
     <FadeInOut
       entry="center"
       exit="center"
