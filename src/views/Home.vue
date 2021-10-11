@@ -16,6 +16,7 @@
         <iframe id="webroundbuttonwidget3" file="webroundbuttonwidget" src="https://telegrambutton.com/webroundbuttonwidget.php?chat_id=tallrik&showchatid=true&showmembercount=true&showmembercount=true&color=&pulse=true&textcolor=white&shadowval=&textval=join channel" border="1" style="border:20px;height: 100px;width: 100px;"></iframe>
       </button>
     </a>
+    <hr>
 
     <h1 class="blink_1">NEWS (NYHETER)</h1>
     <b>Breaking: Døner Tallrik & Dj Bord har fått penger fra NAV.</b>
