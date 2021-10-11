@@ -4,17 +4,18 @@
     <br>
     <br>
     <hr>
-    <a target="_blank" href="https://t.me/tallrik">
-      <button class="button"><span>Follow the fekking Telegram </span>
-        <iframe id="webroundbuttonwidget3" file="webroundbuttonwidget" src="https://telegrambutton.com/webroundbuttonwidget.php?chat_id=tallrik&showchatid=true&showmembercount=true&showmembercount=true&color=&pulse=true&textcolor=white&shadowval=&textval=join channel" border="1" style="border:20px;height: 100px;width: 100px;"></iframe>
-      </button>
-    </a>
 
-    <a target="_blank" href="https://t.me/tallrik">
+    <a target="_blank" href="https://soundcloud.com/user-688920568-653173414">
       <button class="button_lol"><span>SOUNDCLOUD</span></button>
       <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fuser-688920568-653173414&color=orange_white&size=64" style="width: 64px; height: 64px;"></iframe>
     </a>
     <hr>
+
+    <a target="_blank" href="https://t.me/tallrik">
+      <button class="button"><span>Follow the fekking Telegram!!!</span>
+        <iframe id="webroundbuttonwidget3" file="webroundbuttonwidget" src="https://telegrambutton.com/webroundbuttonwidget.php?chat_id=tallrik&showchatid=true&showmembercount=true&showmembercount=true&color=&pulse=true&textcolor=white&shadowval=&textval=join channel" border="1" style="border:20px;height: 100px;width: 100px;"></iframe>
+      </button>
+    </a>
 
     <h1 class="blink_1">NEWS (NYHETER)</h1>
     <b>Breaking: Døner Tallrik & Dj Bord har fått penger fra NAV.</b>
