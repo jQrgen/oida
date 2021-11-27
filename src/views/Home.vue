@@ -67,6 +67,16 @@ export default class Home extends Vue {
     console.log('HI')
   }
 
+  mounted () {
+    const plugin = document.createElement('script')
+    plugin.setAttribute(
+      'src',
+      'https://unpkg.com/embeddable-nfts/dist/nft-card.min.js'
+    )
+    plugin.async = true
+    document.head.appendChild(plugin)
+  }
+
   public async trykk (event: Event, neighbourIds: Array<string>) {
     const tagElement = event?.target as Element
     neighbourIds.forEach(neighbourId => {
