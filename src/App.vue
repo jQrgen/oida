@@ -1,9 +1,4 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Døner Tallrik og DJ Bord</router-link> |
-    <router-link to="/performances">"Performances" (Forestillinger)</router-link> |
-    <router-link to="/morradi">Om deg</router-link>
-  </div>
   <router-view/>
 </template>
 
